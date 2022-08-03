@@ -1,2 +1,2 @@
-# movieDB
+# movie database
 Study project
