@@ -1,2 +1,4 @@
 # movie database
-Study project
+### Study project
+
+![preview](./preview.png)
